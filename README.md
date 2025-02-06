@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/1fbd2e30-0cf5-4b7f-b1b2-78ec0a661c17)
-
 # Hello, I'm Amanda! ♡
 
 ### About Me
