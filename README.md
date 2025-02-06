@@ -1,9 +1,8 @@
-# Hello, I'm Amanda! ♡
+# Hi, I'm Amanda ♡
 
 ### About Me
 
 - I study computer science 💻 and classical piano 🎹
-- I was born to yap 💬
 
 ### Tech Stack
 
