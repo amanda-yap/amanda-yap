@@ -1,4 +1,4 @@
-# Hi, I'm Amanda ♡
+# Hi, I'm Amanda
 
 ### About Me
 
