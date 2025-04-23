@@ -1,4 +1,4 @@
-Tech Stack: `Python` `Java` `C++` `QML` `C` `HTML` `CSS` `Javascript`
+`Python` `Java` `C++` `QML` `C` `HTML` `CSS` `Javascript`
 
 
           
