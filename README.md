@@ -1,6 +1,6 @@
-#### („• ֊ •„)੭  hello there
+### („• ֊ •„)੭  hello there
 
-##### I am a final-year computer science 모 and classical piano ♫ student 
+#### I am a final-year computer science 모 and classical piano ♫ student 
 
 ```
 Languages: Python, C/C++, Java, JavaScript, TypeScript
